@@ -1,0 +1,12 @@
+/* App.css */
+.app-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    /* Keeps the main content on a white background */
+    border-radius: 8px;
+    /* Adds rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Adds a subtle shadow for depth */
+}

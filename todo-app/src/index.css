@@ -1,0 +1,12 @@
+/* Import Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css */
+body {
+    background-color: #f0f4f8;
+    /* A light, soft blue-gray color */
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
